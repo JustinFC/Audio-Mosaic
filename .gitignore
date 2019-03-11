@@ -1,4 +1,6 @@
+new_target.wav
 .ipynb_checkpoints/
 .DS_Store
 esc50/*
 audio/*
+demoui/node_modules/*
