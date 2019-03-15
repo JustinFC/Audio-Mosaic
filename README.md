@@ -1,11 +1,13 @@
 # Audio-Mosaic
 ## Photo Mosaics, but for Audio
-# Justin Chen | Nicolas Finkelstein | Kyle LaBrosse 
-# justinchen2020@u.northwestern.edu | nicolasfinkelstein2020@u.northwestern.edu  | kylelabrosse2019@u.northwestern.edu
 
 ### EECS 352
 ### Northwestern University
 ### Taught by: Bryan Pardo
+
+# Justin Chen - justinchen2020@u.northwestern.edu
+# Nico Finkelstein - nicolasfinkelstein2020@u.northwestern.edu  
+# Kyle LaBrosse - kylelabrosse2019@u.northwestern.edu
 
 
 
