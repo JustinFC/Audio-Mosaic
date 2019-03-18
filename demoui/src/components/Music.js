@@ -25,7 +25,7 @@ class Music extends React.Component {
 
   render() {
     return (
-      <div>
+      <div style={{ display: "flex", justifyContent: "center" }}>
         {this.state.play ? (
           <IconButton aria-label="Play/pause" onClick={this.togglePlay}>
             <StopIcon className={styles.playIcon} />
