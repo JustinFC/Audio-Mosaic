@@ -5,9 +5,10 @@
 ### Northwestern University
 ### Taught by: Bryan Pardo
 
-# Justin Chen - justinchen2020@u.northwestern.edu
-# Nico Finkelstein - nicolasfinkelstein2020@u.northwestern.edu  
-# Kyle LaBrosse - kylelabrosse2019@u.northwestern.edu
+## Contacts 
+### Justin Chen - justinchen2020@u.northwestern.edu
+### Nico Finkelstein - nicolasfinkelstein2020@u.northwestern.edu  
+### Kyle LaBrosse - kylelabrosse2019@u.northwestern.edu
 
 
 
@@ -37,7 +38,7 @@ Fasciani, Stefano, and Lonce Wyse. A voice interface for sound generators: adapt
 6. moothen the constructed signal by applying tukey windows on the concatenated segments
 7. Return new signal of similar-sounding, concatenated sounds
 
-# Demo may be tested here at https://fast-river-33688.herokuapp.com/
+### Demo may be tested here at https://fast-river-33688.herokuapp.com/
 
 
 # 4. Evaluation Method: Survey Feedback
